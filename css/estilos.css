@@ -38,14 +38,9 @@ h4 {
   margin-top: 20px;
 }
 .padding {
-  padding: 5px;
-}
-
-#estatua {
-  transform: rotate(90deg);
-}
-#hidalgo {
-  transform: rotate(-90deg);
+  padding-left: 5px;
+  padding-right: 5px;
+  margin-bottom: 0px;
 }
 
 #contenido2 {
